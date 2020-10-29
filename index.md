@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 
 [https://bootsnipp.com/snippets/4MrdQ](https://bootsnipp.com/snippets/4MrdQ)
-
+看過前二十頁了,我覺得這個是單頁的套板，並不是一系列的主題模板，如：購物車的所有模版，似乎沒有，只有一頁一頁，要自己拼裝，而且也不是專為購物車的樣式，好像只有一個卡片的樣式可以讓購物車使用。
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
