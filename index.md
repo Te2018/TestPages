@@ -26,6 +26,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+[https://bootsnipp.com/snippets/eNe4](https://bootsnipp.com/snippets/eNe4)
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
